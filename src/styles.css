@@ -25,7 +25,14 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  transition: width 0.6s, height 0.6s;
 }
+
+.card:hover{
+  width: 280px;
+  height: 260px;
+}
+
 .card-image {
   border-radius: 25px;
   width: 250px;
@@ -53,5 +60,36 @@ header{
 
 .score-div{
   margin-top: 25px;
+}
+
+@media (max-width: 700px) {
+  .score-div{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  header{
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  h1{
+    font-size: 28px;
+    margin: 0;
+  }
+  p{
+    font-size: 14px;
+    margin: 0;
+  }
+  header div:first-of-type p{
+    display: none;
+  }
+  .container{
+    grid-template-columns: auto;
+    justify-content: center;
+  }
+
 }
 
