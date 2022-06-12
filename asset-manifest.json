@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.9050ae02.css",
-    "main.js": "/memory-card/static/js/main.4c6b3be1.js",
+    "main.css": "/memory-card/static/css/main.1d34ad32.css",
+    "main.js": "/memory-card/static/js/main.6506034d.js",
     "static/media/australian.jpg": "/memory-card/static/media/australian.007218dbde3355d2c900.jpg",
     "static/media/king.jpg": "/memory-card/static/media/king.1e958f5b643acab7bee3.jpg",
     "static/media/adelie.jpg": "/memory-card/static/media/adelie.5122d28eb0342305f490.jpg",
@@ -15,11 +15,11 @@
     "static/media/galapagos.jpg": "/memory-card/static/media/galapagos.6e1ecb283d1cf7997762.jpg",
     "static/media/african.jpg": "/memory-card/static/media/african.b4445d57efb70ca365db.jpg",
     "index.html": "/memory-card/index.html",
-    "main.9050ae02.css.map": "/memory-card/static/css/main.9050ae02.css.map",
-    "main.4c6b3be1.js.map": "/memory-card/static/js/main.4c6b3be1.js.map"
+    "main.1d34ad32.css.map": "/memory-card/static/css/main.1d34ad32.css.map",
+    "main.6506034d.js.map": "/memory-card/static/js/main.6506034d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9050ae02.css",
-    "static/js/main.4c6b3be1.js"
+    "static/css/main.1d34ad32.css",
+    "static/js/main.6506034d.js"
   ]
 }
