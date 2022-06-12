@@ -1,5 +1,5 @@
 import React from 'react';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import './styles.css';
 import { CardList } from './CardList';
 import { v4 as uuidv4 } from 'uuid';
@@ -72,7 +72,7 @@ function App() {
       resetGame();
     }
     //Check if user has won
-    if(userScore>=12){
+    if(userScore==12){
       console.log('You won!');
       resetGame();
     }
