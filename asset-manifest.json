@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/memory-card/static/css/main.9050ae02.css",
-    "main.js": "/github.io/memory-card/static/js/main.8debb53d.js",
-    "static/media/australian.jpg": "/github.io/memory-card/static/media/australian.007218dbde3355d2c900.jpg",
-    "static/media/king.jpg": "/github.io/memory-card/static/media/king.1e958f5b643acab7bee3.jpg",
-    "static/media/adelie.jpg": "/github.io/memory-card/static/media/adelie.5122d28eb0342305f490.jpg",
-    "static/media/macaroni.jpg": "/github.io/memory-card/static/media/macaroni.6377016b19fac76131e2.jpg",
-    "static/media/humbolt.jpg": "/github.io/memory-card/static/media/humbolt.6971de1a7130d1e67559.jpg",
-    "static/media/chinstrap.jpg": "/github.io/memory-card/static/media/chinstrap.ca37e977a3e894dc874a.jpg",
-    "static/media/gentoo.jpg": "/github.io/memory-card/static/media/gentoo.39279796eb83cf8b15a2.jpg",
-    "static/media/southern-rockhopper.jpg": "/github.io/memory-card/static/media/southern-rockhopper.f921abc7a5ded44482f3.jpg",
-    "static/media/magellanic.jpg": "/github.io/memory-card/static/media/magellanic.2093b9f93700250269f2.jpg",
-    "static/media/emperor.jpg": "/github.io/memory-card/static/media/emperor.3ee80223991a4111972e.jpg",
-    "static/media/galapagos.jpg": "/github.io/memory-card/static/media/galapagos.6e1ecb283d1cf7997762.jpg",
-    "static/media/african.jpg": "/github.io/memory-card/static/media/african.b4445d57efb70ca365db.jpg",
-    "index.html": "/github.io/memory-card/index.html",
-    "main.9050ae02.css.map": "/github.io/memory-card/static/css/main.9050ae02.css.map",
-    "main.8debb53d.js.map": "/github.io/memory-card/static/js/main.8debb53d.js.map"
+    "main.css": "/memory-card/static/css/main.9050ae02.css",
+    "main.js": "/memory-card/static/js/main.4c6b3be1.js",
+    "static/media/australian.jpg": "/memory-card/static/media/australian.007218dbde3355d2c900.jpg",
+    "static/media/king.jpg": "/memory-card/static/media/king.1e958f5b643acab7bee3.jpg",
+    "static/media/adelie.jpg": "/memory-card/static/media/adelie.5122d28eb0342305f490.jpg",
+    "static/media/macaroni.jpg": "/memory-card/static/media/macaroni.6377016b19fac76131e2.jpg",
+    "static/media/humbolt.jpg": "/memory-card/static/media/humbolt.6971de1a7130d1e67559.jpg",
+    "static/media/chinstrap.jpg": "/memory-card/static/media/chinstrap.ca37e977a3e894dc874a.jpg",
+    "static/media/gentoo.jpg": "/memory-card/static/media/gentoo.39279796eb83cf8b15a2.jpg",
+    "static/media/southern-rockhopper.jpg": "/memory-card/static/media/southern-rockhopper.f921abc7a5ded44482f3.jpg",
+    "static/media/magellanic.jpg": "/memory-card/static/media/magellanic.2093b9f93700250269f2.jpg",
+    "static/media/emperor.jpg": "/memory-card/static/media/emperor.3ee80223991a4111972e.jpg",
+    "static/media/galapagos.jpg": "/memory-card/static/media/galapagos.6e1ecb283d1cf7997762.jpg",
+    "static/media/african.jpg": "/memory-card/static/media/african.b4445d57efb70ca365db.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.9050ae02.css.map": "/memory-card/static/css/main.9050ae02.css.map",
+    "main.4c6b3be1.js.map": "/memory-card/static/js/main.4c6b3be1.js.map"
   },
   "entrypoints": [
     "static/css/main.9050ae02.css",
-    "static/js/main.8debb53d.js"
+    "static/js/main.4c6b3be1.js"
   ]
 }
